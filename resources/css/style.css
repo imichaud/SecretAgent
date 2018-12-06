@@ -4,6 +4,10 @@ html {
 
 /** Header Section **/
 
+.company {
+  background-color: black;
+}
+
 .container-header {
   background-color: black;
   color: white;
@@ -35,6 +39,10 @@ html {
 .arrivals {
   background-color: black;
   color: white;
+  width: 20rem;
+  position: relative;
+  top: 9rem;
+  padding: 2rem 3rem;
 }
 
 .new {
@@ -48,5 +56,6 @@ html {
   font-size: 2rem;
   font-family: helvetica;
   font-weight: bold;
-  margin: 0.25rem 0 0 3rem;
+  margin-top: 0.25rem;
+  margin-left: 3rem;
 }
