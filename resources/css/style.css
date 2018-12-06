@@ -61,3 +61,19 @@ html {
   margin-top: 0.25rem;
   margin-left: 3rem;
 }
+
+/** Navigation Section **/
+
+.container-navigation {
+  background-color: firebrick;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.nav {
+  color: white;
+  background-color: firebrick;
+  font-size: 1rem;
+  font-family: helvetica;
+}
